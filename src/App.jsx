@@ -14,9 +14,9 @@ function App() {
       <h1>My React App</h1>
 
       {/* PersonCard Components */}
-      <PersonCard name="Alice Wonderland" age={25} occupation="Explorer" />
-      <PersonCard name="Bob Smith" age={30} occupation="Developer" />
-      <PersonCard name="Charlie Brown" age={28} occupation="Designer" />
+      <PersonCard name="Alice " age={2} occupation="Explorer" />
+      <PersonCard name="Morgan " age={23} occupation="Developer" />
+      <PersonCard name="Anthony" age={27} occupation="Designer" />
 
       {/* Button Components */}
       <Button text="Click Me" onClick={handleClick} />
